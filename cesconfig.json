@@ -1,0 +1,40 @@
+{
+  "cesVersion": "2.18.3",
+  "projectName": "demo-10tap-editor",
+  "packages": [
+    {
+      "name": "expo-router",
+      "type": "navigation",
+      "options": {
+        "type": "tabs"
+      }
+    },
+    {
+      "name": "tamagui",
+      "type": "styling"
+    },
+    {
+      "name": "supabase",
+      "type": "authentication"
+    }
+  ],
+  "flags": {
+    "noGit": false,
+    "noInstall": false,
+    "overwrite": false,
+    "importAlias": true,
+    "packageManager": "npm",
+    "eas": true,
+    "publish": false
+  },
+  "packageManager": {
+    "type": "npm",
+    "version": "11.4.1"
+  },
+  "os": {
+    "type": "Linux",
+    "platform": "linux",
+    "arch": "x64",
+    "kernelVersion": "6.11.0-26-generic"
+  }
+}
