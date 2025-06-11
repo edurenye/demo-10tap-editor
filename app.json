@@ -44,6 +44,7 @@
       },
       "package": "com.edurenye.demo10tapeditor",
       "edgeToEdgeEnabled": true
-    }
+    },
+    "newArchEnabled": true
   }
 }

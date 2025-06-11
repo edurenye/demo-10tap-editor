@@ -1,3 +1,4 @@
+import React from 'react';
 import { Stack } from 'expo-router';
 import { RichText, Toolbar, useEditorBridge } from '@10play/tentap-editor';
 import {
